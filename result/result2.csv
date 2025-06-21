@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1749800142157,1076,Launch Wikipedia,200,OK,Thread Group 1-3,text,true,,23590,451,20,20,https://www.wikipedia.org/,1063,0,968
+1749800142334,900,Launch Wikipedia,200,OK,Thread Group 1-8,text,true,,23590,451,20,20,https://www.wikipedia.org/,886,0,792
+1749800142686,547,Launch Wikipedia,200,OK,Thread Group 1-15,text,true,,23590,451,20,20,https://www.wikipedia.org/,534,0,440
+1749800142536,698,Launch Wikipedia,200,OK,Thread Group 1-12,text,true,,23590,451,20,20,https://www.wikipedia.org/,684,0,589
+1749800142186,1049,Launch Wikipedia,200,OK,Thread Group 1-5,text,true,,23590,451,20,20,https://www.wikipedia.org/,1034,0,946
+1749800142156,1076,Launch Wikipedia,200,OK,Thread Group 1-2,text,true,,23590,451,20,20,https://www.wikipedia.org/,1063,0,962
+1749800142885,348,Launch Wikipedia,200,OK,Thread Group 1-19,text,true,,23590,451,20,20,https://www.wikipedia.org/,335,0,231
+1749800142285,949,Launch Wikipedia,200,OK,Thread Group 1-7,text,true,,23590,451,20,20,https://www.wikipedia.org/,935,0,847
+1749800142635,602,Launch Wikipedia,200,OK,Thread Group 1-14,text,true,,23590,451,20,20,https://www.wikipedia.org/,585,0,496
+1749800142385,852,Launch Wikipedia,200,OK,Thread Group 1-9,text,true,,23590,451,20,20,https://www.wikipedia.org/,835,0,747
+1749800142486,751,Launch Wikipedia,200,OK,Thread Group 1-11,text,true,,23590,451,20,20,https://www.wikipedia.org/,734,0,646
+1749800142836,397,Launch Wikipedia,200,OK,Thread Group 1-18,text,true,,23590,451,20,20,https://www.wikipedia.org/,384,0,291
+1749800142736,501,Launch Wikipedia,200,OK,Thread Group 1-16,text,true,,23590,451,20,20,https://www.wikipedia.org/,484,0,396
+1749800142584,654,Launch Wikipedia,200,OK,Thread Group 1-13,text,true,,23590,451,20,20,https://www.wikipedia.org/,636,0,548
+1749800142156,1083,Launch Wikipedia,200,OK,Thread Group 1-1,text,true,,23590,451,20,20,https://www.wikipedia.org/,1063,0,975
+1749800142157,1083,Launch Wikipedia,200,OK,Thread Group 1-4,text,true,,23590,451,20,20,https://www.wikipedia.org/,1063,0,973
+1749800142786,454,Launch Wikipedia,200,OK,Thread Group 1-17,text,true,,23590,451,20,20,https://www.wikipedia.org/,452,0,345
+1749800142437,805,Launch Wikipedia,200,OK,Thread Group 1-10,text,true,,23590,451,20,20,https://www.wikipedia.org/,783,0,696
+1749800142236,1006,Launch Wikipedia,200,OK,Thread Group 1-6,text,true,,23590,451,20,20,https://www.wikipedia.org/,984,0,897
+1749800142934,319,Launch Wikipedia,200,OK,Thread Group 1-20,text,true,,23590,451,20,20,https://www.wikipedia.org/,286,0,183
+1749800143243,886,Search Performance Testing,200,OK,Thread Group 1-15,text,true,,16642,1610,20,20,https://en.wikipedia.org/wiki/Performance_Testing,524,0,251
+1749800143243,524,Search Performance Testing-0,302,Found,Thread Group 1-15,text,true,,1593,544,20,20,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,524,0,251
+1749800143768,291,Search Performance Testing-1,302,Found,Thread Group 1-15,text,true,,1572,550,20,20,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,291,0,0
+1749800144060,69,Search Performance Testing-2,200,OK,Thread Group 1-15,text,true,,13477,516,20,20,https://en.wikipedia.org/wiki/Performance_Testing,68,0,0
+1749800143243,1122,Search Performance Testing,200,OK,Thread Group 1-13,text,true,,16642,1610,19,19,https://en.wikipedia.org/wiki/Performance_Testing,747,0,252
+1749800143243,747,Search Performance Testing-0,302,Found,Thread Group 1-13,text,true,,1593,544,19,19,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,747,0,252
+1749800143991,307,Search Performance Testing-1,302,Found,Thread Group 1-13,text,true,,1572,550,19,19,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,307,0,0
+1749800144298,67,Search Performance Testing-2,200,OK,Thread Group 1-13,text,true,,13477,516,19,19,https://en.wikipedia.org/wiki/Performance_Testing,67,0,0
+1749800143244,1130,Search Performance Testing,200,OK,Thread Group 1-17,text,true,,16642,1610,18,18,https://en.wikipedia.org/wiki/Performance_Testing,750,0,273
+1749800143244,750,Search Performance Testing-0,302,Found,Thread Group 1-17,text,true,,1593,544,18,18,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,750,0,273
+1749800143994,313,Search Performance Testing-1,302,Found,Thread Group 1-17,text,true,,1572,550,18,18,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,313,0,0
+1749800144307,67,Search Performance Testing-2,200,OK,Thread Group 1-17,text,true,,13477,516,18,18,https://en.wikipedia.org/wiki/Performance_Testing,67,0,0
+1749800143244,1130,Search Performance Testing,200,OK,Thread Group 1-16,text,true,,16642,1610,18,18,https://en.wikipedia.org/wiki/Performance_Testing,750,0,260
+1749800143244,750,Search Performance Testing-0,302,Found,Thread Group 1-16,text,true,,1593,544,18,18,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,750,0,260
+1749800143994,311,Search Performance Testing-1,302,Found,Thread Group 1-16,text,true,,1572,550,18,18,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,311,0,0
+1749800144305,69,Search Performance Testing-2,200,OK,Thread Group 1-16,text,true,,13477,516,18,18,https://en.wikipedia.org/wiki/Performance_Testing,69,0,0
+1749800143242,1138,Search Performance Testing,200,OK,Thread Group 1-12,text,true,,16642,1610,16,16,https://en.wikipedia.org/wiki/Performance_Testing,761,0,268
+1749800143242,761,Search Performance Testing-0,302,Found,Thread Group 1-12,text,true,,1593,544,16,16,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,761,0,268
+1749800144003,302,Search Performance Testing-1,302,Found,Thread Group 1-12,text,true,,1572,550,16,16,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,302,0,0
+1749800144305,75,Search Performance Testing-2,200,OK,Thread Group 1-12,text,true,,13477,516,16,16,https://en.wikipedia.org/wiki/Performance_Testing,74,0,0
+1749800143243,1137,Search Performance Testing,200,OK,Thread Group 1-9,text,true,,16642,1610,16,16,https://en.wikipedia.org/wiki/Performance_Testing,760,0,270
+1749800143243,760,Search Performance Testing-0,302,Found,Thread Group 1-9,text,true,,1593,544,16,16,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,760,0,270
+1749800144004,303,Search Performance Testing-1,302,Found,Thread Group 1-9,text,true,,1572,550,16,16,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,303,0,0
+1749800144307,73,Search Performance Testing-2,200,OK,Thread Group 1-9,text,true,,13477,516,16,16,https://en.wikipedia.org/wiki/Performance_Testing,72,0,0
+1749800143245,1143,Search Performance Testing,200,OK,Thread Group 1-6,text,true,,16642,1610,15,15,https://en.wikipedia.org/wiki/Performance_Testing,752,0,281
+1749800143244,1143,Search Performance Testing,200,OK,Thread Group 1-3,text,true,,16642,1610,15,15,https://en.wikipedia.org/wiki/Performance_Testing,751,0,275
+1749800143245,752,Search Performance Testing-0,302,Found,Thread Group 1-6,text,true,,1593,544,15,15,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,752,0,281
+1749800143244,751,Search Performance Testing-0,302,Found,Thread Group 1-3,text,true,,1593,544,15,15,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,751,0,275
+1749800143997,319,Search Performance Testing-1,302,Found,Thread Group 1-6,text,true,,1572,550,15,15,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,319,0,0
+1749800143996,319,Search Performance Testing-1,302,Found,Thread Group 1-3,text,true,,1572,550,15,15,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,319,0,0
+1749800144316,72,Search Performance Testing-2,200,OK,Thread Group 1-6,text,true,,13477,516,15,15,https://en.wikipedia.org/wiki/Performance_Testing,71,0,0
+1749800144316,71,Search Performance Testing-2,200,OK,Thread Group 1-3,text,true,,13477,516,15,15,https://en.wikipedia.org/wiki/Performance_Testing,71,0,0
+1749800143244,1143,Search Performance Testing,200,OK,Thread Group 1-14,text,true,,16642,1610,15,15,https://en.wikipedia.org/wiki/Performance_Testing,760,0,280
+1749800143244,760,Search Performance Testing-0,302,Found,Thread Group 1-14,text,true,,1593,544,15,15,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,760,0,280
+1749800144005,310,Search Performance Testing-1,302,Found,Thread Group 1-14,text,true,,1572,550,15,15,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,310,0,0
+1749800144315,72,Search Performance Testing-2,200,OK,Thread Group 1-14,text,true,,13477,516,15,15,https://en.wikipedia.org/wiki/Performance_Testing,72,0,0
+1749800143244,1143,Search Performance Testing,200,OK,Thread Group 1-5,text,true,,16642,1610,15,15,https://en.wikipedia.org/wiki/Performance_Testing,756,0,266
+1749800143244,756,Search Performance Testing-0,302,Found,Thread Group 1-5,text,true,,1593,544,15,15,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,756,0,266
+1749800144000,315,Search Performance Testing-1,302,Found,Thread Group 1-5,text,true,,1572,550,15,15,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,315,0,0
+1749800144315,72,Search Performance Testing-2,200,OK,Thread Group 1-5,text,true,,13477,516,15,15,https://en.wikipedia.org/wiki/Performance_Testing,71,0,0
+1749800143243,1149,Search Performance Testing,200,OK,Thread Group 1-11,text,true,,16642,1610,12,12,https://en.wikipedia.org/wiki/Performance_Testing,761,0,291
+1749800143243,761,Search Performance Testing-0,302,Found,Thread Group 1-11,text,true,,1593,544,12,12,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,761,0,291
+1749800144005,312,Search Performance Testing-1,302,Found,Thread Group 1-11,text,true,,1572,550,12,12,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,312,0,0
+1749800143244,1149,Search Performance Testing,200,OK,Thread Group 1-10,text,true,,16642,1610,12,12,https://en.wikipedia.org/wiki/Performance_Testing,746,0,281
+1749800144317,75,Search Performance Testing-2,200,OK,Thread Group 1-11,text,true,,13477,516,12,12,https://en.wikipedia.org/wiki/Performance_Testing,75,0,0
+1749800143244,746,Search Performance Testing-0,302,Found,Thread Group 1-10,text,true,,1593,544,12,12,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,746,0,281
+1749800143992,330,Search Performance Testing-1,302,Found,Thread Group 1-10,text,true,,1572,550,12,12,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,330,0,0
+1749800144322,71,Search Performance Testing-2,200,OK,Thread Group 1-10,text,true,,13477,516,12,12,https://en.wikipedia.org/wiki/Performance_Testing,70,0,0
+1749800143243,1150,Search Performance Testing,200,OK,Thread Group 1-18,text,true,,16642,1610,11,11,https://en.wikipedia.org/wiki/Performance_Testing,752,0,260
+1749800143243,752,Search Performance Testing-0,302,Found,Thread Group 1-18,text,true,,1593,544,11,11,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,752,0,260
+1749800143995,327,Search Performance Testing-1,302,Found,Thread Group 1-18,text,true,,1572,550,11,11,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,327,0,0
+1749800144322,71,Search Performance Testing-2,200,OK,Thread Group 1-18,text,true,,13477,516,11,11,https://en.wikipedia.org/wiki/Performance_Testing,70,0,0
+1749800143255,1129,Search Performance Testing,200,OK,Thread Group 1-20,text,true,,16642,1610,15,15,https://en.wikipedia.org/wiki/Performance_Testing,746,0,268
+1749800143255,746,Search Performance Testing-0,302,Found,Thread Group 1-20,text,true,,1593,544,15,15,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,746,0,268
+1749800144002,305,Search Performance Testing-1,302,Found,Thread Group 1-20,text,true,,1572,550,15,15,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,305,0,0
+1749800144307,77,Search Performance Testing-2,200,OK,Thread Group 1-20,text,true,,13477,516,15,15,https://en.wikipedia.org/wiki/Performance_Testing,76,0,0
+1749800143245,1139,Search Performance Testing,200,OK,Thread Group 1-7,text,true,,16642,1610,15,15,https://en.wikipedia.org/wiki/Performance_Testing,747,0,271
+1749800143245,747,Search Performance Testing-0,302,Found,Thread Group 1-7,text,true,,1593,544,15,15,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,747,0,271
+1749800143993,316,Search Performance Testing-1,302,Found,Thread Group 1-7,text,true,,1572,550,15,15,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,316,0,0
+1749800144309,75,Search Performance Testing-2,200,OK,Thread Group 1-7,text,true,,13477,516,15,15,https://en.wikipedia.org/wiki/Performance_Testing,74,0,0
+1749800143245,1153,Search Performance Testing,200,OK,Thread Group 1-8,text,true,,16642,1610,5,5,https://en.wikipedia.org/wiki/Performance_Testing,758,0,272
+1749800143245,758,Search Performance Testing-0,302,Found,Thread Group 1-8,text,true,,1593,544,5,5,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,758,0,272
+1749800144003,323,Search Performance Testing-1,302,Found,Thread Group 1-8,text,true,,1572,550,5,5,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,323,0,0
+1749800144326,72,Search Performance Testing-2,200,OK,Thread Group 1-8,text,true,,13477,516,5,5,https://en.wikipedia.org/wiki/Performance_Testing,72,0,0
+1749800143244,1157,Search Performance Testing,200,OK,Thread Group 1-4,text,true,,16642,1610,4,4,https://en.wikipedia.org/wiki/Performance_Testing,756,0,288
+1749800143244,756,Search Performance Testing-0,302,Found,Thread Group 1-4,text,true,,1593,544,4,4,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,756,0,288
+1749800144000,330,Search Performance Testing-1,302,Found,Thread Group 1-4,text,true,,1572,550,4,4,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,330,0,0
+1749800144330,71,Search Performance Testing-2,200,OK,Thread Group 1-4,text,true,,13477,516,4,4,https://en.wikipedia.org/wiki/Performance_Testing,71,0,0
+1749800143244,1160,Search Performance Testing,200,OK,Thread Group 1-2,text,true,,16642,1610,3,3,https://en.wikipedia.org/wiki/Performance_Testing,757,0,271
+1749800143244,757,Search Performance Testing-0,302,Found,Thread Group 1-2,text,true,,1593,544,3,3,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,757,0,271
+1749800144002,330,Search Performance Testing-1,302,Found,Thread Group 1-2,text,true,,1572,550,3,3,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,330,0,0
+1749800144332,72,Search Performance Testing-2,200,OK,Thread Group 1-2,text,true,,13477,516,3,3,https://en.wikipedia.org/wiki/Performance_Testing,72,0,0
+1749800143243,1164,Search Performance Testing,200,OK,Thread Group 1-1,text,true,,16642,1610,2,2,https://en.wikipedia.org/wiki/Performance_Testing,754,0,285
+1749800143243,754,Search Performance Testing-0,302,Found,Thread Group 1-1,text,true,,1593,544,2,2,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,754,0,285
+1749800143997,318,Search Performance Testing-1,302,Found,Thread Group 1-1,text,true,,1572,550,2,2,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,318,0,0
+1749800144315,92,Search Performance Testing-2,200,OK,Thread Group 1-1,text,true,,13477,516,2,2,https://en.wikipedia.org/wiki/Performance_Testing,92,0,0
+1749800143245,1168,Search Performance Testing,200,OK,Thread Group 1-19,text,true,,16642,1610,1,1,https://en.wikipedia.org/wiki/Performance_Testing,756,0,281
+1749800143245,756,Search Performance Testing-0,302,Found,Thread Group 1-19,text,true,,1593,544,1,1,https://en.wikipedia.org/wiki/Special:Search?search=Performance+Testing&go=Go,756,0,281
+1749800144001,321,Search Performance Testing-1,302,Found,Thread Group 1-19,text,true,,1572,550,1,1,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=Performance+Testing&ns0=1,321,0,0
+1749800144322,91,Search Performance Testing-2,200,OK,Thread Group 1-19,text,true,,13477,516,1,1,https://en.wikipedia.org/wiki/Performance_Testing,91,0,0
